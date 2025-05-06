@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Trong</h1>
 <h3 align="center" class="heading-element" dir="auto">
-    Software Engineer with experience specializing in backend development, with
+    Software Engineer with experience specializing in fullstack development, with
     domain expertise in banking and insurance. Skilled in designing and
     implementing scalable, secure, and high-performance backend systems.
     Proficient in building robust APIs, optimizing databases, and ensuring
