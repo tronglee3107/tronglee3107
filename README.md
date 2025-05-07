@@ -22,8 +22,8 @@
 - :school: I'm a `Computer Science Graduate` from Information Technology Faculty at VNUHCM - University of Science
 - 🌱: I’m currently learning `Spring` and `Spring boot`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- 📄: I’m currently open for a new `job opportunity`, this is [my resume]().
-- ⚡: You can visit [my website]().
+- 📄: I’m currently open for a new `job opportunity`, this is [my resume](https://github.com/tronglee3107/tronglee3107).
+- ⚡: You can visit [my website](https://github.com/tronglee3107/tronglee3107).
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
